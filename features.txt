@@ -1,0 +1,44 @@
++ Filtering Enabled
+- Bring <Player>
+- Teleport <Player>
+- Arrest <Player>
+- Taze <Player>
+- Criminal <Player>
+- Roast <Player>
+- KillAura <Player>
+- Guard
+- Inmate
+- Criminal
+- Neutral
+- 2nd Neutral
+- Suicide
+- RapidFire
+- Teleports
+- Inf Stamina
+- Sped Punch
+- respawnv2
+- AutoRespawn
+- 1Punch
+- Sped Car
+- Anti Taze
+- Anti Arrest
+- RapidFire Equipped
+- KillAura All
+- KillAura Solo
+- KillAura Teams
+- Auto-Reload
+- Open Gate
+- M4A1
+- AK47
+- M9
+- Remington 870
+- DED (Kill All)
+- DED <Player>
+- Backward
+- Car <type>
+
++ Client
+- MapFuck v2
+- NoDoors
+- FriendService
+- Silent Command
