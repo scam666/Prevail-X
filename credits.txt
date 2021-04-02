@@ -1,0 +1,9 @@
+Credits             Description
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+02hacks#2393        script, UI
+GeneralMatieux      Testing and Ideas
+Exodots             First video on Prevail X https://www.youtube.com/watch?v=2lpnR-qAqSs
+Herman Li/Krypto    Second video on Prevail X https://www.youtube.com/watch?v=QuZuCtNK8WY
+Blitz_FG            Prevail X Discord bot
+Chaotic Mind#0666   New Suicide Animation/GripForward Position in v2.23
+PainExist           cheat.gg
