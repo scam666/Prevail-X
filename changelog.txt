@@ -1,0 +1,128 @@
++ v2.27
+- Added DED (Kill All)
+- Removed Rain, Wipe(Car)
+- Replaced GetCar with old method
+- Internal changes to Setups in Topbar and Criminalv2
+
++ v2.26
+~ Added Auto-Reload Toggle
+~ Fixed KillAura not AutoUpdating during cycles
+~ Removed StreamSpoofer, support discontinued https://github.com/scam666/StreamSpoofer/blob/main/Source.lua
+~ Removed DED .L <Player> (LoopKill) (s0nicsc0peL)
+~ Removed DED (Kill all)
+~ Removed DED Teams (.I, .G, .N, .C)
+~ Removed Inf Ammo, ReloadTime from RapidFire
+
++ v2.25
+~ Theming Updates for GunFrame, and tooltip Frames
+~ Silent Command [Beta] Toggle
+~ Added new error messages for trashy exploits
+~ Added tons of function support for different exploits
+~ MapFuck v2.1 Release
+~ Fixed errors on 1Punch
+~ Fixed Armoury Teleport
+~ LockLoader is enabled, good luck skids
+~ 1Punch v2.20 Release, reduced remote spam, fixed breaks
+~ New Logo
+~ Fixed/Updated FriendService to v3.47
+~ Fixed Network for GetCar and RainCar functions
+
++ v2.24
+~ StreamSpoofer Updated (not fully done)
+~ Added Anti-Taze toggle
+~ Added Anti-Arrest toggle
+~ RainCar, WipeCar and GetCar are back
+
++ v2.23 (s0nicsc0peL Update)
+~ Added WipeCar [Beta]
+~ Added waits for slower and smoother loading
+~ Added Solo KillAura, See Help Tab
+~ Added KillAura for Teams https://gyazo.com/eaebae71f28a96851705db9b962afd48
+~ Added overpowered Solo Loopkill, codename s0nicsc0peL.
+~ Added a new Theme tab with preset themes
+~ Added Advanced RGB option in Theme tab
+~ Added New Suicide Animation, Thanks Chaotic Mind#0666
+~ Added ded .I and ded .N for killing Inmates and Neutral
+~ Added NinthKnight (Bypasses 8 Guards limit)
+~ Added 2nd Neutral team switching https://gyazo.com/3c78fde775d4802039e0f4ef196ff35f
+~ Added tons of Anti-Error to Respawnv2, to prevent a new set of errors that spread like a fucking disease
+~ Added Animate <Id> command for FE Animations
+~ Added Join Discord to MainFrame
+~ Added Prefix to the Help Tab, and the chat bar
+~ Replaced Kill with Roast in Main Tab, use ?ded <Player> instead
+~ Fixed/Rewrote StreamSpoofer, An attempt to suppress all lag waves
+~ Fixed Inf Stamina lag spike
+~ Fixed a bug with Prefix that allowed it be set over 1 character long
+~ Fixed ?backward
+~ Fixed bugs on Respawnv2’s Camera script
+~ Fixed StaminaMsg Setup
+~ Fixed/Changed Invisible keybind to N due to roblox zoom in keybind I
+~ Disabled manually activation of Respawnv2 while AutoRespawn is enabled, idk why i didnt do this before now
+~ wild command isnt removed, but hidden from now on
+
++ v2.22b (Mid-Update)
+~ Fixed SimulationRadius, that is used in Car and RainCar
+~ Removed ugly ass borders, rethemed the welcome menu
+~ Fixed/Unpatched FriendService now v3.45, also updated so PlayerList now appears normal
+~ Fixed StreamSpoofer, No longer supports Esc/Settings Frame
+
++ v2.22
+~ FriendService v3.40 Release, Pray that this doesn't get patched in a week
+~ Fixed/Updated StreamSpoofer
+~ Re-designed Main Tab, Help Tab, and UI Themes and color schemes
+~ Chat Commands added: ?Wild, ?Car, ?RainCar, ?Backward. (See Help Tab)
+~ Respawnv2 now saves equipped weapons and rapidfire weapons after respawn
+~ Newly Designed game hud Theme
+~ Fixed s0nicsc0pe not killing Neutral Team
+~ Fixed StaminaMsg function for displaying infomation, and added a typing simulator
+
++ v2.21 Final
+~ Fixed/Updated FriendService to v3.30, FUCK YOU ROBLOX DEVS
+~ Fixed Sped Car error when car falls off map
+~ Added a messagebox that uses the "not enough stamina" Frame and Textlabel to display infomation
+~ minor UI changes
+
++ v2.21
+~ New UI
+~ Sped Car [Beta] Added
+~ Fast Punch Added
+~ Fixed Errors on Nodoors
+~ KeyBinds can now be changed
+~ Changed up Teleports
+~ Inf Stamina Updated (Toggles on and off WITHOUT resetting)
+~ Bring/Criminal Patched, plan to fix soon
+~ Removed Rainbow/RGB Colors from UI and game, Added Theme instead
+
++ v2.20
+~ Fixed MapFuck (Now v2)
+~ Fixed Inf Stamina
+
++ v2.19
+~ Updated TazeAura to keep you on Guard after running, It checks if you have a Taser and are a Guard so it will no longing respawn you.
+~ 1Punch v2.00 Release. https://gyazo.com/584f9741890d3e3cfec76c86e0cc14a9
+~ Added special credits after Prevail X loads, Thank you Herman, Exo, and General. http://prntscr.com/rj8m2m
+
++ v2.18 Final
+~ Fixed 02MapFuck
+
++ v2.18
+~ FriendService Updated
+~ Auto Respawn Updated
+
++ v2.17
+~ RapidFire Fixed
+~ Added back ?DED /G (Guards) and ?DED /C (Criminals) Your Welcome
+~ RapidFire Equipped (Press E) will now RapidFire a taser (regular rapidfire already had this)
+
++ v2.16 Final
+~ Fixed Teleports, sorry
+
++ v2.16
+~ Added Gate Command
+~ Updated Auto Respawn/Respawnv2's position function
+~ Fixed StatOS (Final)
+~ Updated StreamSpoofer
+~ Updated Nodoors, removes front gate now
+~ Replaced 'iBtools' with 'Uzi'
+~ Updated 02MapFuck (Internal change)
+~ Updated RapidFire (Internal change)
