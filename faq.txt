@@ -1,0 +1,14 @@
+Q. Is Prevail X skidded?
+A. Prevail X is not skidded in any way shape or form, Prevail X offers never publicly released scripts that have never seen the light of the public or have never been made before.
+
+Q. Why is Prevail X the best choice?
+A. If your exploit is able to run Prevail X, It offers more features and is the most powerful and stable Prison Life GUI in history.
+
+Q. What is FriendService, and why would i use it?
+A. Protects those friended to YOUR ROBLOX ACCOUNT from Prevail X's destructive functions. (Taze, KillAura, Kill, 1Punch, Arrest)
+
+Q. Will Prevail X work with free exploits?
+A. It should work with krnl, otherwise that exploit you must support loadstring and HttpGet.
+
+Q. Why does Prevail X lag after a certain amount of time using it, and is that bad?
+A. Because Prevail X is obfuscated and this is normal.
