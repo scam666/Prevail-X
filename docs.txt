@@ -1,4 +1,3 @@
-
 script                    required functions + LVL4 EXECUTION
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 Prevail X (bare bones)    loadstring, game:HttpGet()
