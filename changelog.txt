@@ -1,8 +1,8 @@
 + v2.27
-- Added DED (Kill All)
-- Removed Rain, Wipe(Car)
-- Replaced GetCar with old method
-- Internal changes to Setups in Topbar and Criminalv2
+~ Added DED (Kill All)
+~ Removed Rain, Wipe(Car)
+~ Replaced GetCar with old method
+~ Internal changes to Setups in Topbar and Criminalv2
 
 + v2.26
 ~ Added Auto-Reload Toggle
